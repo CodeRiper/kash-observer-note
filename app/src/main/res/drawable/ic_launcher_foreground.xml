@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Shield -->
+    <path
+        android:fillColor="#FFFFD6E0"
+        android:pathData="M54,21 A33,33 0,1,0 54,87 A33,33 0,1,0 54,21 Z" />
+    <path
+        android:fillColor="#FF8E7AB5"
+        android:pathData="M54,24 A30,30 0,1,0 54,84 A30,30 0,1,0 54,24 Z" />
+
+    <!-- Cat Left & Right Ears -->
+    <path
+        android:fillColor="#FF8E7AB5"
+        android:pathData="M32,38 L25,25 L40,31 Z" />
+    <path
+        android:fillColor="#FFEE99C2"
+        android:pathData="M32,36 L28,27 L38,32 Z" />
+    
+    <path
+        android:fillColor="#FF8E7AB5"
+        android:pathData="M76,38 L83,25 L68,31 Z" />
+    <path
+        android:fillColor="#FFEE99C2"
+        android:pathData="M76,36 L80,27 L70,32 Z" />
+
+    <!-- Cat Head Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 C38,34 30,44 30,58 C30,72 40,78 54,78 C68,78 78,72 78,58 C78,44 70,34 54,34 Z" />
+
+    <!-- Cat Eyes -->
+    <path
+        android:fillColor="#FF4B70E2"
+        android:pathData="M43,52 A4,4 0,1,0 43,60 A4,4 0,1,0 43,52 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,53 A1.5,1.5 0,1,0 42,56 A1.5,1.5 0,1,0 42,53 Z" />
+
+    <path
+        android:fillColor="#FF4B70E2"
+        android:pathData="M65,52 A4,4 0,1,0 65,60 A4,4 0,1,0 65,52 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,53 A1.5,1.5 0,1,0 64,56 A1.5,1.5 0,1,0 64,53 Z" />
+
+    <!-- Cute Nose -->
+    <path
+        android:fillColor="#FFEE99C2"
+        android:pathData="M54,61 L51.5,58.5 L56.5,58.5 Z" />
+    
+    <!-- Observer Magnifying Glass -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF8E7AB5"
+        android:strokeWidth="3.5"
+        android:pathData="M68,60 A12,12 0,1,0 68,84 A12,12 0,1,0 68,60 Z" />
+    <path
+        android:fillColor="#80FFF0F5"
+        android:pathData="M68,62 A10,10 0,1,0 68,82 A10,10 0,1,0 68,62 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF8E7AB5"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M76,76 L86,86" />
+
+    <!-- Star Sparkle -->
+    <path
+        android:fillColor="#FFFBBC05"
+        android:pathData="M32,48 L34,44 L36,48 L40,50 L36,52 L34,56 L32,52 L28,50 Z" />
+</vector>
